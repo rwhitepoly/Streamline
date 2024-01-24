@@ -1,3 +1,3 @@
 # Streamline
 
-A new project!
+This is a new project by Richard White and Ricardo Blanco.
